@@ -11,6 +11,10 @@
 /.next/
 /out/
 
+# OpenNext & Cloudflare
+/.open-next/
+/.wrangler/
+
 # Production
 /build
 
